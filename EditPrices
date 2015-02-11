@@ -1,0 +1,5 @@
+Editing Prices
+For the Editing Prices tab on our website, only administrators will be able to update the average prices of donated items.  This is used for tax purposes and will affect how much is written on recipts for tax purposes and finding out quarterly or yearly averages in order to ask the government for grants.  
+How it will work:
+Enter new ints for value of item
+Committ changes
